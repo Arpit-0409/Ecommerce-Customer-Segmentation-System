@@ -11,8 +11,14 @@ handled date column - convert it to Tenure days so that it helps model to genera
 handled year-birth column - convert it to Age
 combined several other columns of children , different product spending into one.
 
-Co-realation Heatmap:-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6382bcd4-6a9a-4253-8e48-08c7c7b6fb5f" />
+Co-relation Heatmap:-
+<img width="786" height="689" alt="Co-Relationheatmap" src="https://github.com/user-attachments/assets/0382f8a6-23a6-4314-a59b-d7cd9251744e" />
+
+        
+
+
+
+
 
 
 Income having positive co-relation with Total-Spending :-    0.79
